@@ -36,7 +36,6 @@ Had difficulty figuring out how to fit all of the synopsis in the description ar
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 ![Imgur](https://i.imgur.com/gVsYjkS.gif)
 
