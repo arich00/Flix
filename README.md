@@ -24,5 +24,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ![Imgur](https://i.imgur.com/7imReE8.gif)
 
 ### Notes
-API currently feels clunky to navigate, but this should pass in practice
+Had difficulty figuring out how to fit all of the synopsis in the description area without truncating it or making text too small to read. Temporary solution, best idea is to scroll down to finish reading the synopsis.
 
